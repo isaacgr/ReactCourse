@@ -28,7 +28,6 @@
     "validator": "8.0.0",
     "webpack": "3.1.0",
     "webpack-dev-server": "2.5.1",
-    "windows-build-tools": "^2.3.0",
     "yarn": "^1.6.0"
   }
 }
